@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Maze",
+  "base_artist": "ジュース・ワールド",
+  "createdAt": "2025-12-09T10:29:50.185291Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Maze",
+      "artist": "shxde",
+      "has_synced": false,
+      "path": "select/01_Maze_shxde.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Corn Maze",
+      "artist": "Malibu Ken feat. Aesop Rock & Tobacco",
+      "has_synced": true,
+      "path": "select/02_Corn_Maze_Malibu_Ken_feat._Aesop_Rock_&_Tobacco.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Corn Maze",
+      "artist": "Malibu Ken",
+      "has_synced": true,
+      "path": "select/03_Corn_Maze_Malibu_Ken.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Maze",
+      "artist": "Farao",
+      "has_synced": false,
+      "path": "select/04_Maze_Farao.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Maze",
+      "artist": "Dokken",
+      "has_synced": true,
+      "path": "select/05_The_Maze_Dokken.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Maze (Album Version)",
+      "artist": "Dokken",
+      "has_synced": true,
+      "path": "select/06_The_Maze_(Album_Version)_Dokken.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Maze (Live at Kosei Nenkin Hall, Tokyo)",
+      "artist": "Dokken",
+      "has_synced": false,
+      "path": "select/07_The_Maze_(Live_at_Kosei_Nenkin_Hall,_Tokyo)_Dokken.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Maze (Live at The Strand)",
+      "artist": "Dokken",
+      "has_synced": false,
+      "path": "select/08_The_Maze_(Live_at_The_Strand)_Dokken.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Roadkill Maze",
+      "artist": "Nocturnal Breed",
+      "has_synced": false,
+      "path": "select/09_Roadkill_Maze_Nocturnal_Breed.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Maze of Torment",
+      "artist": "Morbid Angel",
+      "has_synced": true,
+      "path": "select/10_Maze_of_Torment_Morbid_Angel.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Maze of Torment",
+      "artist": "Morbid Angel",
+      "has_synced": false,
+      "path": "select/11_Maze_of_Torment_Morbid_Angel.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Maze of Torment - Remix",
+      "artist": "Morbid Angel",
+      "has_synced": true,
+      "path": "select/12_Maze_of_Torment_-_Remix_Morbid_Angel.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Encounter at Chronos' Maze",
+      "artist": "Diabulus In Musica",
+      "has_synced": true,
+      "path": "select/13_Encounter_at_Chronos'_Maze_Diabulus_In_Musica.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Infernal Maze",
+      "artist": "Stratovarius",
+      "has_synced": true,
+      "path": "select/14_Infernal_Maze_Stratovarius.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Infernal Maze",
+      "artist": "Stratovarius",
+      "has_synced": true,
+      "path": "select/15_Infernal_Maze_Stratovarius.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "The Mirror Maze",
+      "artist": "Ayreon",
+      "has_synced": false,
+      "path": "select/16_The_Mirror_Maze_Ayreon.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Maze",
+      "artist": "Juice WRLD",
+      "has_synced": true,
+      "path": "select/17_Maze_Juice_WRLD.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Maze",
+      "artist": "‎Juice WRLD",
+      "has_synced": false,
+      "path": "select/pl_01_Maze_‎Juice_WRLD.txt"
+    }
+  ]
+}
